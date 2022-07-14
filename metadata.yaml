@@ -1,0 +1,37 @@
+_repo: In-the-grip-of-the-Hawk-A-story-of-the-Maori-wars_68389
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Holloway, W. Herbert
+    alias: Holloway, W. H.
+    gutenberg_agent_id: '9710'
+    url: http://www.gutenberg.org/2009/agents/9710
+creator:
+  author:
+    agent_name: Horsley, Reginald
+    alias: Horsley, Reginald Ernest
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '47889'
+    url: http://www.gutenberg.org/2009/agents/47889
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68389'
+language: en
+pgterms:marc905: 20220608203001horsley
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :T.C. & E.C. Jack Ltd.,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maori (New Zealand people) -- Fiction'
+- !lcsh 'New Zealand -- Fiction'
+- !lcsh 'New Zealand -- History -- New Zealand Wars, 1860-1872 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'In the grip of the Hawk: A story of the Maori wars'
+url: http://www.gutenberg.org/ebooks/68389
