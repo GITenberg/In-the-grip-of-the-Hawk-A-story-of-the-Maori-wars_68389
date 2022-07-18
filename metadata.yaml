@@ -6,6 +6,9 @@ contributor:
     alias: Holloway, W. H.
     gutenberg_agent_id: '9710'
     url: http://www.gutenberg.org/2009/agents/9710
+covers:
+- cover_type: archival
+  image_path: 68389-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Horsley, Reginald
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '47889'
     url: http://www.gutenberg.org/2009/agents/47889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68389#In-the-grip-of-the-Hawk-A-story-of-the-Maori-wars
 gutenberg_issued: '2022-06-24'
 identifiers:
   gutenberg: '68389'
